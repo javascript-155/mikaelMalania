@@ -1,0 +1,6 @@
+·If/else statement
+·Ternary operator
+·Switch
+·რა არის ფუნქცია
+·Function declaration vs Function expressions
+·Arrow Functions
