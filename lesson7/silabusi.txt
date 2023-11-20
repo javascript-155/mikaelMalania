@@ -1,0 +1,5 @@
+·როგორ მოდიან კავშირში ერთმანეთთან Html, Css, Javascript?
+·What is the critical rendering path?
+·რას წარმოადგენს “DOM”
+·“Dom”-ის მანიპულაციის მეთოდები
+·ჯავასკრიპტ მოვლენები, (javascript events)
