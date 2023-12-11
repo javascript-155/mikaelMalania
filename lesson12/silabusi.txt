@@ -1,0 +1,13 @@
+·რას წარმოადგენს Regex-ი და Regex-ის გატესტვა;
+·ფორმის ვალიდაციის ტექნიკა
+·Validation API
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?! @#$%^&*()_+{}[]|;:',.<>?/`~-=:0987654321
+
+Lorem ipsum dolor sit amet, consectetur testmail2@gmail.com adipiscing elit. Proin @#$%^&*()_+{}[]testmail@gmail.com|;':,.<>?/`~-=:0987654321 venenatis tortor, in blandit dui luctus ac. Fusce varius nisl quis ipsum feugiat, sit amet sodales erat fringilla. Quisque condimentum elit a tellus maximus, eu bibendum nulla iaculis. Aliquam erat volutpat. Integer t
+
+
+
+
+^[a-zA-Z][a-z0-9_-]{3,15}$
+
